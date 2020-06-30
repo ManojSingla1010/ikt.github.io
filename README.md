@@ -1,3 +1,1 @@
-# ikt.github.io
-
-Infinitekirantechnologies.com
+# Infinitekirantechnologies.com
